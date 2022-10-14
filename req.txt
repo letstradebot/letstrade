@@ -1,0 +1,14 @@
+alpaca-trade-api==2.3.0
+DateTime==4.5
+psycopg2-binary==2.9.3
+pandas-market-calendars==3.4
+schedule==1.1.0
+pytz==2021.3
+-e git+https://github.com/mementum/backtrader.git@0fa63ef4a35dc53cc7320813f8b15480c8f85517#egg=backtrader
+uvicorn==0.18.2
+fastapi==0.79.0
+matplotlib==3.2.2
+yfinance==0.1.74
+Jinja2==3.0.2
+python-multipart==0.0.5
+supervisor==4.2.4
