@@ -10,3 +10,5 @@ Always start by running a trading bot in Dry-run and do not engage money before 
 
 We strongly recommend you to have coding and Python knowledge. Do not hesitate to read the source code and understand the mechanism of this bot.
 
+# supported brokers
+Alpaca  https://app.alpaca.markets/login
