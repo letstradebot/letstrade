@@ -34,7 +34,7 @@ Letstrade is not sponsored or affiliated with alpaca trade api. This is the firs
 #### Next get your API key, secret key and url endpoint.
 ![image](https://user-images.githubusercontent.com/115838844/195993478-a5e0e9ad-13dc-4d90-87af-fd54984928f9.png) <br>
 If you want to switch from paper trading to live remove paper- from the url endpt. 
-Once you see your API key and API secret key note it down somewhere safe. 
+Once you see your API key and API secret key note it down somewhere safe. <br>
 **Do not share these numbers with anyone.**
 
 
