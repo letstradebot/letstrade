@@ -32,7 +32,7 @@ Then download the repo which ever way you want to.
 Letstrade is not sponsored or affiliated with alpaca trade api. This is the first of many brokers that will be available for you to connect to lets trade. 
 ![image](https://user-images.githubusercontent.com/115838844/195992872-ac947f67-c008-4062-9f1d-24cd489f3c7a.png)
 #### Next get your API key, secret key and url endpoint.
-![image](https://user-images.githubusercontent.com/115838844/195992920-5faed651-6f8b-4f34-9afe-b07877771b07.png)
+![image](https://user-images.githubusercontent.com/115838844/195993478-a5e0e9ad-13dc-4d90-87af-fd54984928f9.png)
 If you want to switch from paper trading to live remove paper- from the url endpt. 
 Once you see your API key and API secret key note it down somewhere safe. 
 ####Do not share these numbers with anyone. ####
