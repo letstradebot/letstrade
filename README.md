@@ -12,3 +12,16 @@ We strongly recommend you to have coding and Python knowledge. Do not hesitate t
 
 # supported brokers
 Alpaca  https://app.alpaca.markets/login
+
+# Quick Start Guide 
+This section explains how to run the bot with Docker. It is not meant to work out of the box. You'll still need to read through the documentation and understand how to properly configure it.
+### Install Docker ###
+Start by downloading and installing Docker CE for your platform:
+Mac: https://docs.docker.com/desktop/install/mac-install/
+Windows: https://docs.docker.com/desktop/install/windows-install/
+Linux: https://docs.docker.com/get-docker/
+
+### Clone Repo ###
+Next Clone the git repo with either the git command if you have git cli installed or download the zip file from the github repo.
+
+
