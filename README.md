@@ -57,8 +57,8 @@ For more information on how it works and how to customize things watch the full 
 Please dont be afraid to add commits or message us about a feature you would like. 
 
 ## Upcoming features 
-1. More broker support: We plan to add td ameritrade then robin hood.
-2. More strategies for back testing and bot running 
+1. More broker support: We plan to add td ameritrade then robin hood. Then more based on requests. 
+2. More strategies for back testing and bot running we hope people who use this share their strategies and trading ideas thats why this is open source. 
 3. Easier set up and strategy cusomization.  
 
 
