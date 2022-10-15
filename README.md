@@ -23,5 +23,6 @@ Linux: https://docs.docker.com/get-docker/
 
 ### Clone Repo ###
 Next Clone the git repo with either the git command if you have git cli installed or download the zip file from the github repo.
+![image](https://user-images.githubusercontent.com/115838844/195992231-e347f91d-017d-4cba-ace0-817e64f0bde3.png)
 
 
