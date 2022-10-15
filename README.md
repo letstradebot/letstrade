@@ -61,6 +61,13 @@ Please dont be afraid to add commits or message us about a feature you would lik
 2. More strategies for back testing and bot running we hope people who use this share their strategies and trading ideas thats why this is open source. 
 3. Easier set up and strategy cusomization.  
 
+#### limitations and tips
+Because letstrade is a completely free project there is only one main limitation. <br>
+The number of stock data you can get per hour. Yahoo finance has a max rate of 10,000 requests per hour. <br>
+So if you are getting 5 min data the max number of stocks on your watchlist can be 166. and if you are getting 1 min data that number goes down to 33. 
+The equation to figure out your max number of stocks is 10,000 requests/60 min = x requests / y interval. <br>
+The higher the interval the more stocks you can view. Also keep in mind if you are doing 1 min or 5 min intraday trading you want the need your program to be fast, so try to keep your number of stocks low to account for computational time. **A good max number of stocks is 25 for smaller time frames.** <br>
+For larger time frames such as daily you can use up to 10,000 stocks. And not worry too much about computation time because you have a whole trading day to figure out if you want to buy or sell a stocks.
 
 
 
