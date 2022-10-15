@@ -36,6 +36,30 @@ Letstrade is not sponsored or affiliated with alpaca trade api. This is the firs
 If you want to switch from paper trading to live remove paper- from the url endpt. 
 Once you see your API key and API secret key note it down somewhere safe. <br>
 **Do not share these numbers with anyone.**
+#### Open the repo in your code editor of choice ####
+Enter your API keys into the config file. 
+#### For Linux ####
+We suggest either downloading WINSCP for windows or CyberDuck for mac and editing files on your linux device that way or through VI if you know how to use that one. 
+But we all know the software memes about using vi. 😂
+
+### Run Docker ###
+#### Build Image ####
+On windows and Mac the easiest was to build the image is by installing the docker extension and typing right clicking on the docker file and pressing docker build. 
+Then press on the whale icon and find the image under images and press docker run. 
+
+On linux you should cd into the directory and type the command 
+docker build letstrade:latest 
+docker run letstrade:latest
+
+### Congrats!!🎈 
+you now have a fully functional stock trading bot. 
+For more information on how it works and how to customize things watch the full comprehnsive youtube video. 
+Please dont be afraid to add commits or message us about a feature you would like. 
+
+## Upcoming features 
+1. More broker support: We plan to add td ameritrade then robin hood.
+2. More strategies for back testing and bot running 
+3. Easier set up and strategy cusomization.  
 
 
 
