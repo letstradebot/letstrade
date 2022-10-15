@@ -27,7 +27,7 @@ Next Clone the git repo with either the git command if you have git cli installe
 Then download the repo which ever way you want to.
 ![image](https://user-images.githubusercontent.com/115838844/195992267-bf067a84-b32e-44ab-98e5-b8ce6fc8733e.png)
 
-###Get your Alpaca API keys###
+### Get your Alpaca API keys ###
 #### Either create or login to alpaca####
 Letstrade is not sponsored or affiliated with alpaca trade api. This is the first of many brokers that will be available for you to connect to lets trade. <br>
 ![image](https://user-images.githubusercontent.com/115838844/195992872-ac947f67-c008-4062-9f1d-24cd489f3c7a.png)
