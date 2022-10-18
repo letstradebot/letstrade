@@ -21,7 +21,7 @@ This page explains how to run the bot with Docker. It is not meant to work out o
 ## Install Docker
 Start by downloading and installing Docker CE for your platform: <br>
 Mac: https://docs.docker.com/docker-for-mac/install/ <br>
-Windows: https://docs.docker.com/desktop/install/windows-install/
+Windows: https://docs.docker.com/desktop/install/windows-install/ <br>
 Linux: 
 $ apt update <br>
 $ apt install apt-transport-https ca-certificates curl software-properties-common <br>
