@@ -41,3 +41,4 @@ click on code then press download zip on the repo page.
 
 ## Get your api keys from your alpaca brokerage account. 
 Go to Alpaca trade api and get your api key information. 
+<img width="1680" alt="Screen Shot 2022-10-18 at 8 28 23 AM" src="https://user-images.githubusercontent.com/115838844/196430021-8a8dbadf-7bde-4e2f-bc3e-c17e374a1208.png">
