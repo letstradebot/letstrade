@@ -66,6 +66,10 @@ in the terminal type "docker-compose up"
 We have a complete indept youtube video posted if you are intered in learning more about how this trading bot works. 
 
 
-https://user-images.githubusercontent.com/115838844/196434054-cc193cad-afc8-4a7d-b340-40537e0e8755.mp4
+
+
+https://user-images.githubusercontent.com/115838844/196434208-25e4117b-14a0-4590-8e9f-23118f1d134a.mp4
+
+
 
 
