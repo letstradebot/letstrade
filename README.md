@@ -22,7 +22,7 @@ This page explains how to run the bot with Docker. It is not meant to work out o
 Start by downloading and installing Docker CE for your platform: <br>
 Mac: https://docs.docker.com/docker-for-mac/install/ <br>
 Windows: https://docs.docker.com/desktop/install/windows-install/ <br>
-Linux: 
+Linux (ubuntu): 
 1. apt update <br>
 2. apt install apt-transport-https ca-certificates curl software-properties-common <br>
 3. curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg <br>
