@@ -60,4 +60,8 @@ We recommend using winscp or cyberduck to drag and drop you file but what ever w
 The config file is inside the letstrade-bot folder. That is where you should enter your Alpaca api key and secrect key and also the end point for if you want to paper trade or live trade. Make sure you save. 
 
 ## Compose docker file 
+in the terminal type "docker-compose up"
+
+## congrats you just deployed a trading bot!!
+We have a complete indept youtube video posted if you are intered in learning more about how this trading bot works. 
 
