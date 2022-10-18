@@ -45,12 +45,9 @@ class BuyNHold(bt.Strategy):
 
     def __init__(self) -> None:
         self.dataclose = self.datas[0]
-        self.sma50 = btind.SimpleMovingAverage(period=50)
-        self.sma200 = btind.SimpleMovingAverage(period=200)
-        self.crossover = bt.indicators.CrossOver(self.sma50,self.sma200)
     def next(self):
-        if self.dataclose[0]:
-            self.order = self.buy(size=.99*self.broker.cash/self.dataclose[0])#self.buy_bracket(size=.95*self.broker.cash/self.dataclose[0],limitprice=self.dataclose[0]*.1+self.dataclose[0], price=self.dataclose[0], stopprice=self.dataclose[0]-self.dataclose[0]*.05)
+        if self.dataclose[0] > 0:
+            self.order = self.buy(size=self.broker.cash/self.dataclose[0])#self.buy_bracket(size=.95*self.broker.cash/self.dataclose[0],limitprice=self.dataclose[0]*.1+self.dataclose[0], price=self.dataclose[0], stopprice=self.dataclose[0]-self.dataclose[0]*.05)
             pass
 
 
