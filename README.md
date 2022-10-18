@@ -32,3 +32,12 @@ Linux:
 7. sudo apt install docker-ce <br>
 8. apt install docker-compose <br>
 9. docker-compose --version
+
+## Install vscode 
+if you are on mac or windows you are going to want to download vscode becasuse it makes running the docker compose easier. 
+## Clone the git repo.
+click on code then press download zip on the repo page. 
+<img width="1680" alt="Screen Shot 2022-10-18 at 8 29 34 AM" src="https://user-images.githubusercontent.com/115838844/196429812-e91d28e5-a532-4d5f-a185-3fe61a311d9b.png">
+
+## Get your api keys from your alpaca brokerage account. 
+Go to Alpaca trade api and get your api key information. 
