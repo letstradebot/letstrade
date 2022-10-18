@@ -23,11 +23,12 @@ Start by downloading and installing Docker CE for your platform: <br>
 Mac: https://docs.docker.com/docker-for-mac/install/ <br>
 Windows: https://docs.docker.com/desktop/install/windows-install/ <br>
 Linux: 
-$ apt update <br>
-$ apt install apt-transport-https ca-certificates curl software-properties-common <br>
-$ curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg <br>
-$ echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu <br> $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null <br>
-$ apt update <br>
-$ apt-cache policy docker-ce <br>
-$ sudo apt install docker-ce <br>
-$ apt install docker-compose <br>
+1. apt update <br>
+2. apt install apt-transport-https ca-certificates curl software-properties-common <br>
+3. curl -fsSL https://download.docker.com/linux/ubuntu/gpg | sudo gpg --dearmor -o /usr/share/keyrings/docker-archive-keyring.gpg <br>
+4. echo "deb [arch=$(dpkg --print-architecture) signed-by=/usr/share/keyrings/docker-archive-keyring.gpg] https://download.docker.com/linux/ubuntu $(lsb_release -cs) stable" | sudo tee /etc/apt/sources.list.d/docker.list > /dev/null <br>
+5. apt update <br>
+6. apt-cache policy docker-ce <br>
+7. sudo apt install docker-ce <br>
+8. apt install docker-compose <br>
+9. docker-compose --version
