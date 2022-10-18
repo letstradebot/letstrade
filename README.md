@@ -42,3 +42,22 @@ click on code then press download zip on the repo page.
 ## Get your api keys from your alpaca brokerage account. 
 Go to Alpaca trade api and get your api key information. 
 <img width="1680" alt="Screen Shot 2022-10-18 at 8 28 23 AM" src="https://user-images.githubusercontent.com/115838844/196430021-8a8dbadf-7bde-4e2f-bc3e-c17e374a1208.png">
+
+## If you are using linux download winscp or cyberduck 
+these are free programs that give you a graphical interface when working with linux devices. Linux can seem very confusing without a graphical guide to see what you are doing when first using it. These programs make it easier to get started and it is highly reccomened to run this bot on a linux linode server for the highest amount of reliability. 
+
+## Go to Linode
+We are not sponsored by Linode but are highly satisfied with the services they provide over any other cloud computing platform. If you would like to deploy this to a linux server you can go to linode.com and create a nanode. Linode gives you $100 in free cloud computing credits when you sign up and a nanode only cost about $5 per month so your first 20 months are free. <br>
+<img width="1680" alt="Screen Shot 2022-10-18 at 8 44 46 AM" src="https://user-images.githubusercontent.com/115838844/196433549-ebec88d6-e598-4e74-90a3-ed45676a6ff1.png"> <br>
+
+## Open up VScode if you are on Mac or Windows
+You should download and open VSCode we recommend vscode in particular because it has docker extension which make running the docker file much easier. <br>
+Press open folder and open the lettrade folder. It will contain a letstrade-bot folder 2 other files.
+## Drag files into Linux machine if you are on Linux
+We recommend using winscp or cyberduck to drag and drop you file but what ever way you like put the files on the machine. 
+
+## Change the config file.
+The config file is inside the letstrade-bot folder. That is where you should enter your Alpaca api key and secrect key and also the end point for if you want to paper trade or live trade. Make sure you save. 
+
+## Compose docker file 
+
