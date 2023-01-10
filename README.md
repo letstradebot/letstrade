@@ -68,7 +68,7 @@ We have a complete indept youtube video posted if you are intered in learning mo
 
 
 
-https://user-images.githubusercontent.com/115838844/196434208-25e4117b-14a0-4590-8e9f-23118f1d134a.mp4
+
 
 
 
